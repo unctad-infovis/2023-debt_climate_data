@@ -1,0 +1,70 @@
+Code,Countries ,"Income classification, World Bank","Developing region, World Bank",Small island developing state,"Risk of debt distress, August 2022","Climate Vulnerariblity, 2020"
+1,Afghanistan,Low-income,South Asia,,High,0.58
+13,Bangladesh,Lower-middle-income,South Asia,,Low,0.54
+18,Benin,Lower-middle-income,Sub-Saharan Africa,,Moderate,0.57
+19,Bhutan,Lower-middle-income,South Asia,,Moderate,0.52
+26,Burkina Faso,Low-income,Sub-Saharan Africa,,Moderate,0.55
+27,Burundi,Low-income,Sub-Saharan Africa,,High,0.56
+28,Cabo Verde,Lower-middle-income,Sub-Saharan Africa,1,Moderate,0.41
+29,Cambodia,Lower-middle-income,East Asia and Pacific,,Low,0.51
+30,Cameroon,Lower-middle-income,Sub-Saharan Africa,,High,0.48
+32,Central African Republic,Low-income,Sub-Saharan Africa,,High,0.59
+33,Chad,Low-income,Sub-Saharan Africa,,In debt distress,0.66
+37,Comoros,Lower-middle-income,Sub-Saharan Africa,1,High,0.53
+38,Congo,Lower-middle-income,Sub-Saharan Africa,,In debt distress,0.52
+40,Cote d'Ivoire,Lower-middle-income,Sub-Saharan Africa,,Moderate,0.51
+45,Democratic Republic of Congo,Low-income,Sub-Saharan Africa,,Moderate,0.59
+47,Djibouti,Lower-middle-income,Middle East & North Africa,,High,0.48
+48,Dominica,Upper-middle-income,Latin America and the Caribbean,1,High,0.45
+57,Ethiopia,Low-income,Sub-Saharan Africa,,High,0.56
+62,Gambia,Low-income,Sub-Saharan Africa,,High,0.55
+65,Ghana,Lower-middle-income,Sub-Saharan Africa,,High,0.47
+67,Grenada,Upper-middle-income,Latin America and the Caribbean,1,In debt distress,0.39
+69,Guinea,Low-income,Sub-Saharan Africa,,Moderate,0.53
+70,Guinea-Bissau,Low-income,Sub-Saharan Africa,1,High,0.66
+71,Guyana,Upper-middle-income,Latin America and the Caribbean,1,Moderate,0.46
+72,Haiti,Lower-middle-income,Latin America and the Caribbean,1,High,0.53
+73,Honduras,Lower-middle-income,Latin America and the Caribbean,,Low,0.46
+87,Kenya,Lower-middle-income,Sub-Saharan Africa,,High,0.53
+91,Kyrgyzstan,Lower-middle-income,Europe and Central Asia,,Moderate,0.35
+100,Madagascar,Low-income,Sub-Saharan Africa,,Moderate,0.56
+92,Laos,Lower-middle-income,East Asia and Pacific,,High,
+95,Lesotho,Lower-middle-income,Sub-Saharan Africa,,Moderate,
+96,Liberia,Low-income,Sub-Saharan Africa,,Moderate,
+101,Malawi,Low-income,Sub-Saharan Africa,,High,0.55
+103,Maldives,Upper-middle-income,East Asia and Pacific,1,High,0.52
+104,Mali,Low-income,Sub-Saharan Africa,,Moderate,0.6
+107,Mauritania,Lower-middle-income,Sub-Saharan Africa,,High,0.57
+110,Micronesia,Lower-middle-income,East Asia and Pacific,1,High,0.58
+111,Moldova,Upper-middle-income,Europe and Central Asia,,Low,0.43
+115,Mozambique,Low-income,Sub-Saharan Africa,,In debt distress,0.52
+116,Myanmar,Lower-middle-income,East Asia and Pacific,,Low,0.53
+119,Nepal,Lower-middle-income,South Asia,,Low,0.52
+122,Nicaragua,Lower-middle-income,Latin America and the Caribbean,,Moderate,0.45
+123,Niger,Low-income,Sub-Saharan Africa,,Moderate,0.67
+131,Papua New Guinea,Lower-middle-income,East Asia and Pacific,1,High,0.54
+139,Rwanda,Low-income,Sub-Saharan Africa,,Moderate,0.59
+143,Samoa,Lower-middle-income,East Asia and Pacific,1,High,0.49
+144,Sao Tome and Principe,Lower-middle-income,Sub-Saharan Africa,1,In debt distress,0.53
+141,Saint Lucia,Upper-middle-income,Latin America and the Caribbean,1,Moderate,
+146,Senegal,Lower-middle-income,Sub-Saharan Africa,,Moderate,0.53
+88,Kiribati,Lower-middle-income,East Asia and Pacific,1,High,
+106,Marshall Islands,Upper-middle-income,East Asia and Pacific,1,High,
+149,Sierra Leone,Low-income,Sub-Saharan Africa,,High,0.56
+153,Solomon Islands,Lower-middle-income,East Asia and Pacific,1,Moderate,0.57
+154,Somalia,Low-income,Sub-Saharan Africa,,In debt distress,0.67
+159,Sudan,Low-income,Sub-Saharan Africa,,In debt distress,0.62
+156,South Sudan,Low-income,Sub-Saharan Africa,,High,
+164,Taijikistan,Lower-middle-income,Europe and Central Asia,,High,0.41
+165,Tanzania,Lower-middle-income,Sub-Saharan Africa,,Moderate,0.52
+167,Timor-Leste,Lower-middle-income,East Asia and Pacific,1,Moderate,0.5
+168,Togo,Low-income,Sub-Saharan Africa,,Moderate,0.52
+169,Tonga,Upper-middle-income,East Asia and Pacific,1,High,0.58
+142,Saint Vincent and the Grenadines,Upper-middle-income,Latin America and the Caribbean,1,High,
+174,Tuvalu,Upper-middle-income,East Asia and Pacific,1,High,
+175,Uganda,Low-income,Sub-Saharan Africa,,Moderate,0.58
+181,Uzbekistan,Lower-middle-income,Europe and Central Asia,,Low,0.4
+182,Vanuatu,Lower-middle-income,East Asia and Pacific,1,Moderate,0.55
+185,Yemen,Low-income,Middle East & North Africa,,Moderate,0.56
+186,Zambia,Low-income,Sub-Saharan Africa,,High,0.52
+187,Zimbabwe,Lower-middle-income,Sub-Saharan Africa,,In debt distress,0.55
